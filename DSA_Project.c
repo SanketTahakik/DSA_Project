@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////
 //
-// Function name : 
+// Function name : LinkedList
 // input         : integer
 // Output        : integer
 // Discption     : DSA
@@ -12,9 +12,10 @@
 
 /////////////////////////////////////////////////////////////
 //
-// Problem Statement : Display, Count, InsertFrist and InsertLast, DeleteFrist, DeleteLast, InserAtPos, DeleteAtPos
+// Problem Statement : Create the LinkedList with the help User Define Function call
 //
 /////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdlib.h>
 
