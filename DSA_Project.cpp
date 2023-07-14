@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////
 //
-// Function name : 
+// Function name : LinkedList
 // input         : integer
 // Output        : integer
 // Discption     : DSA
@@ -12,7 +12,7 @@
 
 /////////////////////////////////////////////////////////////
 //
-// Problem Statement : C++ language DSA
+// Problem Statement : Create the LinkedList with the help User Define Function call in C++ Language
 //
 /////////////////////////////////////////////////////////////
 
